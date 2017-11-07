@@ -1,0 +1,66 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,Latency,IdleTime,Connect
+1510033131971,1033,1_HTTP Request_NoAction,200,OK,Thread Group 1-1,text,true,,53725,114,1,1,774,0,582
+1510033133006,201,Login,200,OK,Thread Group 1-1,text,true,,14142,394,1,1,200,0,0
+1510033133209,606,Authenticate,200,OK,Thread Group 1-1,text,true,,32345,1344,1,1,203,0,0
+1510033133824,334,Authenticity token getter,200,OK,Thread Group 1-1,text,true,,29251,716,1,1,329,0,0
+1510033134160,442,Logout,422,Unprocessable Entity,Thread Group 1-1,text,false,,10870,855,1,1,441,0,262
+1510033134603,304,1_HTTP Request_NoAction,200,OK,Thread Group 1-1,text,true,,53725,114,1,1,170,0,0
+1510033134908,206,Login,200,OK,Thread Group 1-1,text,true,,14142,394,1,1,204,0,0
+1510033135114,573,Authenticate,200,OK,Thread Group 1-1,text,true,,32345,1346,1,1,212,0,0
+1510033135692,426,Authenticity token getter,200,OK,Thread Group 1-1,text,true,,29243,716,1,1,422,0,0
+1510033136119,168,Logout,422,Unprocessable Entity,Thread Group 1-1,text,false,,10870,857,1,1,166,0,0
+1510033136287,635,1_HTTP Request_NoAction,200,OK,Thread Group 1-1,text,true,,53725,114,1,1,404,0,234
+1510033136923,179,Login,200,OK,Thread Group 1-1,text,true,,14142,394,1,1,175,0,0
+1510033137102,484,Authenticate,200,OK,Thread Group 1-1,text,true,,32345,1348,1,1,191,0,0
+1510033137591,360,Authenticity token getter,200,OK,Thread Group 1-1,text,true,,29251,716,1,1,356,0,0
+1510033137952,440,Logout,200,OK,Thread Group 1-1,text,true,,56568,1224,1,1,150,0,0
+1510033138393,642,1_HTTP Request_NoAction,200,OK,Thread Group 1-1,text,true,,53725,114,1,1,408,0,238
+1510033139036,162,Login,200,OK,Thread Group 1-1,text,true,,14142,394,1,1,161,0,0
+1510033139199,518,Authenticate,200,OK,Thread Group 1-1,text,true,,32345,1346,1,1,234,0,0
+1510033139722,327,Authenticity token getter,200,OK,Thread Group 1-1,text,true,,29251,716,1,1,324,0,0
+1510033140050,153,Logout,422,Unprocessable Entity,Thread Group 1-1,text,false,,10870,853,1,1,152,0,0
+1510033140204,278,1_HTTP Request_NoAction,200,OK,Thread Group 1-1,text,true,,53725,114,1,1,161,0,0
+1510033140482,519,Login,200,OK,Thread Group 1-1,text,true,,14142,394,1,1,410,0,234
+1510033141002,604,Authenticate,200,OK,Thread Group 1-1,text,true,,32345,1348,1,1,180,0,0
+1510033141611,285,Authenticity token getter,200,OK,Thread Group 1-1,text,true,,29251,716,1,1,281,0,0
+1510033141897,429,Logout,200,OK,Thread Group 1-1,text,true,,56568,1222,1,1,140,0,0
+1510033395343,1005,1_HTTP Request_NoAction,200,OK,Thread Group 1-1,text,true,,53725,114,1,1,752,0,576
+1510033396349,166,Login,200,OK,Thread Group 1-1,text,true,,14142,394,1,1,164,0,0
+1510033396516,513,Authenticate,200,OK,Thread Group 1-1,text,true,,32345,1342,1,1,219,0,0
+1510033397039,320,Authenticity token getter,200,OK,Thread Group 1-1,text,true,,29251,716,1,1,316,0,0
+1510033397360,804,Logout,200,OK,Thread Group 1-1,text,true,,56568,1228,1,1,398,0,246
+1510033398165,304,1_HTTP Request_NoAction,200,OK,Thread Group 1-1,text,true,,53725,114,1,1,178,0,0
+1510033398470,155,Login,200,OK,Thread Group 1-1,text,true,,14142,394,1,1,153,0,0
+1510033398625,493,Authenticate,200,OK,Thread Group 1-1,text,true,,32345,1346,1,1,196,0,0
+1510033399123,296,Authenticity token getter,200,OK,Thread Group 1-1,text,true,,29251,716,1,1,292,0,0
+1510033399420,816,Logout,200,OK,Thread Group 1-1,text,true,,56568,1222,1,1,396,0,247
+1510033400237,300,1_HTTP Request_NoAction,200,OK,Thread Group 1-1,text,true,,53725,114,1,1,179,0,0
+1510033400537,157,Login,200,OK,Thread Group 1-1,text,true,,14142,394,1,1,155,0,0
+1510033400695,610,Authenticate,200,OK,Thread Group 1-1,text,true,,32345,1348,1,1,276,0,0
+1510033401310,431,Authenticity token getter,200,OK,Thread Group 1-1,text,true,,29251,716,1,1,427,0,0
+1510033401741,848,Logout,200,OK,Thread Group 1-1,text,true,,56568,1224,1,1,415,0,245
+1510033402590,417,1_HTTP Request_NoAction,200,OK,Thread Group 1-1,text,true,,53725,114,1,1,295,0,0
+1510033403008,176,Login,200,OK,Thread Group 1-1,text,true,,14142,394,1,1,174,0,0
+1510033403185,607,Authenticate,200,OK,Thread Group 1-1,text,true,,32345,1346,1,1,270,0,0
+1510033403797,734,Authenticity token getter,200,OK,Thread Group 1-1,text,true,,29251,716,1,1,605,0,257
+1510033404532,842,Logout,200,OK,Thread Group 1-1,text,true,,56568,1232,1,1,443,0,0
+1510033405375,351,1_HTTP Request_NoAction,200,OK,Thread Group 1-1,text,true,,53725,114,1,1,223,0,0
+1510033405726,169,Login,200,OK,Thread Group 1-1,text,true,,14142,394,1,1,167,0,0
+1510033405896,903,Authenticate,200,OK,Thread Group 1-1,text,true,,32345,1340,1,1,455,0,251
+1510033406805,443,Authenticity token getter,200,OK,Thread Group 1-1,text,true,,29251,716,1,1,320,0,0
+1510033407249,454,Logout,200,OK,Thread Group 1-1,text,true,,56568,1224,1,1,163,0,0
+1510034397565,1067,Smoke test,200,OK,Thread Group 1-1,text,false,Tidy Parser errors:   45 (allowed 0) Tidy Parser warnings: 159 (allowed 0),53725,114,1,1,815,0,599
+1510034400263,694,Smoke test,200,OK,Thread Group 1-1,text,false,Tidy Parser errors:   45 (allowed 0) Tidy Parser warnings: 159 (allowed 0),53725,114,1,1,455,0,241
+1510034402475,653,Smoke test,200,OK,Thread Group 1-1,text,false,Tidy Parser errors:   45 (allowed 0) Tidy Parser warnings: 159 (allowed 0),53725,114,1,1,412,0,243
+1510034404647,777,Smoke test,200,OK,Thread Group 1-1,text,false,Tidy Parser errors:   45 (allowed 0) Tidy Parser warnings: 159 (allowed 0),53725,114,1,1,523,0,260
+1510034406938,683,Smoke test,200,OK,Thread Group 1-1,text,false,Tidy Parser errors:   45 (allowed 0) Tidy Parser warnings: 159 (allowed 0),53725,114,1,1,433,0,247
+1510034437992,1047,Smoke test,200,OK,Thread Group 1-1,text,false,Tidy Parser errors:   45 (allowed 0) Tidy Parser warnings: 159 (allowed 0),53725,114,1,1,814,0,531
+1510034440558,644,Smoke test,200,OK,Thread Group 1-1,text,false,Tidy Parser errors:   45 (allowed 0) Tidy Parser warnings: 159 (allowed 0),53725,114,1,1,411,0,233
+1510034442721,655,Smoke test,200,OK,Thread Group 1-1,text,false,Tidy Parser errors:   45 (allowed 0) Tidy Parser warnings: 159 (allowed 0),53725,114,1,1,413,0,242
+1510034444889,647,Smoke test,200,OK,Thread Group 1-1,text,false,Tidy Parser errors:   45 (allowed 0) Tidy Parser warnings: 159 (allowed 0),53725,114,1,1,406,0,242
+1510034447052,729,Smoke test,200,OK,Thread Group 1-1,text,false,Tidy Parser errors:   45 (allowed 0) Tidy Parser warnings: 159 (allowed 0),53725,114,1,1,465,0,268
+1510034708744,1117,Smoke test,200,OK,Thread Group 1-1,text,true,,53709,114,1,1,854,0,586
+1510034710403,371,Smoke test,200,OK,Thread Group 1-1,text,true,,53725,114,1,1,240,0,0
+1510034711286,678,Smoke test,200,OK,Thread Group 1-1,text,true,,53725,114,1,1,420,0,250
+1510034712482,297,Smoke test,200,OK,Thread Group 1-1,text,true,,53725,114,1,1,173,0,0
+1510034713289,672,Smoke test,200,OK,Thread Group 1-1,text,true,,53725,114,1,1,425,0,258
